@@ -1,0 +1,9 @@
+User Defined Particle	0	0
+Alpha Particle/Helium Ion (+2e)	2	3727.37924
+Carbon Ion (+6e)	6	11178
+Muon (+1e)	1	105.6583
+Kaon (+1e)	1	493.667
+Pion (+1e)	1	139.5702
+Proton (+1e)	1	938.272
+Tau (+1e)	1	1776.82
+
